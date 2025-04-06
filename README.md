@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Kylin
 - 👀 I’m passionate about programming and coding.
-- 🌱 Currently diving into **JavaScript** and **Cybersecurity**.
+- 🌱 Currently diving into **JavaScript** and AI.
 - 💞️ Looking to collaborate on projects involving **JavaScript**, **Python**, and creative tech ideas.
 - 📫 Reach me at: [[Kylindonald0@gmail.com](mailto\:Kylindonald0@gmail.com)] or via GitHub DMs.
 - 😄 Pronouns: 🤔
