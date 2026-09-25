@@ -4,8 +4,7 @@
 - 💞️ Looking to collaborate on projects involving **JavaScript**, **Python**, and creative tech ideas.
 - 📫 Reach me at: [[Kylindonald0@gmail.com](mailto\:Kylindonald0@gmail.com)] or via GitHub DMs.
 - 😄 Pronouns: 🤔
-- ⚡ Fun fact:I enjoy solving complex problems and turning ideas into structured, functional solutions—whether through code or collaboration.
-  
+- ⚡ Fun fact:I enjoy solving complex problems and turning ideas into structured, functional solutions whether through code or collaboration.
 
 
 <!---
