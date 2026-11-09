@@ -1,31 +1,21 @@
-# Hi, I'm Kylin 👋
+# Hi, I'm Kylin
 
-**Software Developer | Python, Django & Web Development**
+**Backend Developer · Python, Django & Node.js**
 
-I build practical web applications and backend systems, with a focus on turning ideas into working software.
+I build web backends and Python tools. My work includes REST APIs, authentication, database models, and integrations with services like Paystack and OpenAI.
 
-### What I work with
+## Selected projects
 
-- **Backend:** Python, Django, REST APIs, authentication, authorization
-- **Frontend:** JavaScript, HTML, CSS, Tailwind CSS
-- **Data:** SQL, database design, Django ORM
-- **Tools & integrations:** Git, GitHub, Paystack
+- [Django Portfolio & Blog](https://github.com/Kylin-Ace/Kylin-Portfolio) — A database-backed blog and portfolio with Django admin for managing posts and projects.
+- [Excel Previewer CLI](https://github.com/Kylin-Ace/excel-previewer-cli) — A Python tool for previewing Excel sheets from the terminal using pandas and openpyxl.
+- [Insightly AI](https://github.com/Kylin-Ace/insightly-ai) — A Next.js analytics demo with CSV export and a server-side OpenAI integration for generating reports.
 
-### What I'm building
+I'm also working on the backend for **Resors**, a collaborative student marketplace.
 
-- 🛒 **UniMart** — working on the backend of a collaborative student marketplace, including APIs, authentication, database models, business logic, security, and payment integration.
-- 💻 **Kylin Portfolio** — a Django-powered portfolio and blog platform with an admin-managed content system.
-- 📊 **Excel Previewer CLI** — a Python command-line tool for previewing Excel workbooks from the terminal.
+## Skills
 
-### A little more about me
+- **Backend** · Python, Django, Node.js, REST APIs, authentication and authorization
+- **Data & tools** · SQL, SQLite, Django ORM, pandas, openpyxl, Git
+- **Web** · JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS
 
-I enjoy building things, learning by solving real problems, and understanding how software works beyond just making it run. I'm currently focused on growing through practical software engineering work and collaborative projects.
-
-### Connect
-
-- **LinkedIn:** [Emmanuel Francis O.](https://www.linkedin.com/in/emmanuel-francis-o-4bb9a437/)
-- **Email:** [Kylindonald0@gmail.com](mailto:Kylindonald0@gmail.com)
-
----
-
-*Always building, learning, and improving.*
+[Portfolio](https://kylin-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/emmanuel-francis-o-4bb9a437/) · [Email](mailto:Kylindonald0@gmail.com)
