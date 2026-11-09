@@ -1,21 +1,24 @@
 # Hi, I'm Kylin
 
-**Backend Developer · Python, Django & Node.js**
+**Backend-focused full-stack developer · Python, Django & SQL**
 
-I build web backends and Python tools. My work includes REST APIs, authentication, database models, and integrations with services like Paystack and OpenAI.
+I build REST APIs, database-backed web apps, and Python tools that automate data collection and repetitive work. I’m open to remote Python/Django backend and backend-focused full-stack roles.
 
 ## Selected projects
 
-- [Django Portfolio & Blog](https://github.com/Kylin-Ace/Kylin-Portfolio) — A database-backed blog and portfolio with Django admin for managing posts and projects.
-- [Excel Previewer CLI](https://github.com/Kylin-Ace/excel-previewer-cli) — A Python tool for previewing Excel sheets from the terminal using pandas and openpyxl.
-- [Insightly AI](https://github.com/Kylin-Ace/insightly-ai) — A Next.js analytics demo with CSV export and a server-side OpenAI integration for generating reports.
+1. [Django Portfolio & Blog](https://github.com/Kylin-Ace/Kylin-Portfolio) — A Django and SQLite app with an admin-to-blog publishing workflow and server-rendered pages.
+2. [Excel Previewer CLI](https://github.com/Kylin-Ace/excel-previewer-cli) — Inspect workbook sheets, dimensions, and sample rows from the terminal with Python.
+3. [Insightly AI](https://github.com/Kylin-Ace/insightly-ai) — A Next.js dashboard with CSV export and a server-side report endpoint that validates input and handles OpenAI API errors.
 
-I'm also working on the backend for **Resors**, a collaborative student marketplace.
+## Collaborative and client work
+
+- **Resors** · I work on the Django backend for a student marketplace, including account permissions, listings, relational models, and REST APIs. I’ve also worked on Paystack integration and debugged issues across the frontend and backend.
+- **Client automation** · I built Python scripts for job-data collection and repetitive workflows.
 
 ## Skills
 
-- **Backend** · Python, Django, Node.js, REST APIs, authentication and authorization
-- **Data & tools** · SQL, SQLite, Django ORM, pandas, openpyxl, Git
-- **Web** · JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS
+- **Backend and data** · Python, Django, REST APIs, SQL, SQLite, Django ORM, authentication and permissions
+- **Web** · JavaScript, TypeScript, Node.js, React, Next.js, Tailwind CSS
+- **Automation and tooling** · pandas, openpyxl, web scraping, Git
 
 [Portfolio](https://kylin-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/emmanuel-francis-o-4bb9a437/) · [Email](mailto:Kylindonald0@gmail.com)
