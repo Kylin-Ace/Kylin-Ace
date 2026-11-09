@@ -6,7 +6,7 @@ I build REST APIs, database-backed web apps, and Python tools that automate data
 
 ## Selected projects
 
-1. [Django Portfolio & Blog](https://github.com/Kylin-Ace/Kylin-Portfolio) — A Django and SQLite app with an admin-to-blog publishing workflow and server-rendered pages.
+1. [Django Listings API & Blog](https://github.com/Kylin-Ace/Kylin-Portfolio#marketplace-listings-api) — A Django REST API with token authentication, owner-only listing access, input validation, and tests. The repo also includes a Django admin publishing workflow.
 2. [Excel Previewer CLI](https://github.com/Kylin-Ace/excel-previewer-cli) — Inspect workbook sheets, dimensions, and sample rows from the terminal with Python.
 3. [Insightly AI](https://github.com/Kylin-Ace/insightly-ai) — A Next.js dashboard with CSV export and a server-side report endpoint that validates input and handles OpenAI API errors.
 
